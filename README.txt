@@ -1,4 +1,3 @@
-
 README
 Project Title: Trex Runner Game
 Welcome to my Trex Runner Game project! This project showcases my skills in game development using p5.js, a JavaScript library. Below, I'll provide an overview of the project and highlight the key features and skills demonstrated.
