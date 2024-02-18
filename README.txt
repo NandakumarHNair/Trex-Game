@@ -34,4 +34,4 @@ The Trex Runner Game project showcases my skills in JavaScript programming, game
 It serves as a testament to my ability to create engaging and interactive experiences using web technologies. 
 If you have any questions or feedback, feel free to reach out!
 
-Email: nandakumarhnair@gmailc.om
+Email: nandakumarhnair@gmail.com
